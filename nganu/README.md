@@ -1,0 +1,22 @@
+PROGRES PENGOLAH DATA (KASIR INDOMARET)
+========================
+1. TAMPILAN APLIKASI (done)
+2. SISTEM PENJUMLAHAN(done)
+3. PROSES (done)
+4. TIPE DATA (done)
+5. TAMPILKAN DATA KE LABEL (done) 
+6. TAMPILKAN DATA KE LISTBOX
+7. SIMPAN DATA SECARA PERMANEN 
+8. MEMBUAT SERVER
+9. MULTI TAMPILAN
+10.  MASUKAN DATA KE COMBO BOX
+
+CREATED BY 
+- FADHLI MUHAMMAD AKBAR
+- ADIT
+
+note=  source ada di buku pemograman,
+     kalau ada yang mau di 
+tambahin tambahin aja
+
+#OTODIDAK
